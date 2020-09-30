@@ -1,0 +1,14 @@
+com\vms\exception\ProcessingException.class
+com\vms\VmsApplication.class
+com\vms\model\Vehicle.class
+com\vms\controller\VehicleController.class
+com\vms\model\ResponseMessage.class
+com\vms\model\ErrorMessage.class
+com\vms\repository\VehicleDao.class
+com\vms\service\VehicleService.class
+com\vms\exception\ResourceNotFoundException.class
+com\vms\model\VehiclePrice.class
+com\vms\model\VehicleDetail.class
+com\vms\exception\GlobalExceptionHandler.class
+com\vms\model\VehicleFeature.class
+com\vms\repository\VehicleRepository.class
